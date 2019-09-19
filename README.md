@@ -1,15 +1,15 @@
-### Name: Haris Sumra 
+Name: Haris Sumra 
   
-  Class: Analytical Programming
+Class: Analytical Programming
 
-  Project: NYC311 OpenData
+Project: NYC311 OpenData
 
-Module_1: 
+### Module_1: 
 1) Setup the data
 2) Collected the data from "https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9"
 3) Created the data frame
 
-Module_2:
+### Module_2:
 1) I briefly created variables containing list and tuples: I was also about to find class type of each variable.
 2) Link for Module_2: https://github.com/harisx91/AnalyticsProgramming
 3) The point of this exercise is to create muscle memory!
