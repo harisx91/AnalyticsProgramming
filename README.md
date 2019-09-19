@@ -1,6 +1,8 @@
-Name: Haris Sumra
-Class: Analytical Programming
-Project: NYC311 OpenData
+### Name: Haris Sumra 
+  
+  Class: Analytical Programming
+
+  Project: NYC311 OpenData
 
 Module_1: 
 1) Setup the data
