@@ -17,3 +17,5 @@ Project: NYC311 OpenData
 
 ### Module_3
 1) A new folder with name Module3 was created to finish Module_3 acitivity for class assignment. 
+2) Created Function and Error Handling codes,
+3) An algorithim was created, function was turned into a list. Was able to run the algorithm as asked. 
