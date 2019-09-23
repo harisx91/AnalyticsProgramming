@@ -13,3 +13,7 @@ Project: NYC311 OpenData
 1) I briefly created variables containing list and tuples: I was also about to find class type of each variable.
 2) Link for Module_2: https://github.com/harisx91/AnalyticsProgramming
 3) The point of this exercise is to create muscle memory!
+
+
+### Module_3
+1) A new folder with name Module3 was created to finish Module_3 acitivity for class assignment. 
