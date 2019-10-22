@@ -12,4 +12,4 @@ DataSet: https://archive.ics.uci.edu/ml/datasets/phishing+websites#
 
 Tools Used: Pandas, scipy.io
 
-## Conclusion : In conclussion, we can see that Phishing websites has higher mean compared to non-phishing websites. Not only that, Phishing websites has a value closer to "1" making them more likely to be a phishing website. 
+## Conclusion : We can see that Phishing websites has higher mean compared to non-phishing websites. Not only that, Phishing websites has a value closer to "1" making them more likely to be a phishing website. 
